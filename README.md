@@ -7,7 +7,7 @@
 
 - [ ] return이랑 Ok의 차이?
     - [ ] D
-    - [ ] Heun
+    - [x] Heun
     - [ ] ss
 
 
@@ -27,7 +27,6 @@
     - [ ] D
     - [ ] Heun
     - [ ] ss
-
 
 </details>
 
