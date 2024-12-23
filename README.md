@@ -28,5 +28,8 @@
     - [ ] Heun
     - [ ] ss
 
+- [ ] cfg랑 derive 언제 쓰는지?
+- [ ] 표현식(Expression)과 Return
+- [ ] Rust 구조체 구성
 </details>
 
